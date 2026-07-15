@@ -1,4 +1,6 @@
 
+
+
 # Income & Expense Tracker - MERN Stack
 
 A full-featured Income & Expense Tracker web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). Track your finances with beautiful visualizations including pie charts, bar charts, and line graphs.
